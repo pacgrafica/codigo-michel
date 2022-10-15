@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0495c9;
+    border-color: #357ebd; /*set the color you want here*/
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #1efd00;
+    border-color: #027e30; /*set the color you want here*/
+    color: #027e30;
+}
